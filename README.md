@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abel Abebe</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ABEL+ABEBE!;" />
+</p>
 <h3 align="center">A passionate Mobile developer from Ethiopia experienced with Flutter Framework!</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -30,3 +32,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abelabebe313&show_icons=true&locale=en&layout=compact" alt="abelabebe313" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abelabebe313&show_icons=true&locale=en" alt="abelabebe313" /></p>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
