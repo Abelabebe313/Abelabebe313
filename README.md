@@ -3,6 +3,8 @@
 </p>
 <h3 align="center">A passionate Mobile developer from Ethiopia experienced with Flutter Framework!</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+// new png
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelabebe313&label=Profile%20views&color=0e75b6&style=flat" alt="abelabebe313" /> </p>
 
