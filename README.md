@@ -34,7 +34,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abelabebe313&show_icons=true&locale=en&layout=compact" alt="abelabebe313" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abelabebe313&show_icons=true&locale=en" alt="abelabebe313" /></p>
 <br>
-<br>
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
 </h3>
