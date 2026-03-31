@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelabebeZmstdang&label=Profile%20views&color=0e75b6&style=flat" alt="abelabebe313" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://abel-portfolio.vercel.app/](https://abel-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about **dart, flutter**
 
-- 📄 Know about my experiences [https://abel-portfolio.vercel.app/](https://abel-portfolio.vercel.app/)
+- 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
